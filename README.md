@@ -1,10 +1,12 @@
 # DesignPattern
-一些常用设计模式的Java实现
+
+> 一些常用设计模式的Java实现
 
 ### 已完成
 
 + 单例模式(singleton) -- 详见`org.nuaa.tomax.dp.singleton`
-+ 简单工厂 -- 详见`org.nuaa.tomax.factory.easyfactory`
-+ 工厂方法(factory method) -- 详见`org.nuaa.tomax.factory.factorymethods`
-+ 抽象工厂(abstract factory) -- 详见`org.nuaa.tomax.factory.abstractfactory`
++ 简单工厂 -- 详见`org.nuaa.tomax.factory.dp.easyfactory`
++ 工厂方法(factory method) -- 详见`org.nuaa.tomax.factory.dp.factorymethods`
++ 抽象工厂(abstract factory) -- 详见`org.nuaa.tomax.factory.dp.abstractfactory`
++ 代理模式(proxy) -- 详见`org.nuaa.tomax.factory.dp.proxy`
 + 策略模式(strategy) -- 详见`org.nuaa.tomax.dp.strategy`
