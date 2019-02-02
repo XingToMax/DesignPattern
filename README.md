@@ -8,6 +8,5 @@
 + 简单工厂 -- 详见`org.nuaa.tomax.dp.factory.easyfactory`
 + 工厂方法(factory method) -- 详见`org.nuaa.tomax.dp.factory.factorymethods`
 + 抽象工厂(abstract factory) -- 详见`org.nuaa.tomax.dp.factory.abstractfactory`
-+ 原型模式(prototype) -- 详见`org.nuaa.tomax.dp.prototype`
 + 代理模式(proxy) -- 详见`org.nuaa.tomax.dp.proxy`
 + 策略模式(strategy) -- 详见`org.nuaa.tomax.dp.strategy`
