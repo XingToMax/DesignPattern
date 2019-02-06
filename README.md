@@ -13,3 +13,4 @@
 + 代理模式(proxy) -- 详见`org.nuaa.tomax.dp.proxy`
 + 策略模式(strategy) -- 详见`org.nuaa.tomax.dp.strategy`
 + 备忘录模式(memento) -- 详见`org.nuaa.tomax.dp.memento`
++ 享元模式(flyweight) -- 详见`org.nuaa.tomax.dp.flyweight`
