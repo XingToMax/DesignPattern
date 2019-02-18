@@ -14,3 +14,4 @@
 + 策略模式(strategy) -- 详见`org.nuaa.tomax.dp.strategy`
 + 备忘录模式(memento) -- 详见`org.nuaa.tomax.dp.memento`
 + 享元模式(flyweight) -- 详见`org.nuaa.tomax.dp.flyweight`
++ 模板方法模式(template method) -- 详见`org.nuaa.tomax.dp.templatemethod`
